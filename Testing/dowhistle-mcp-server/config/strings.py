@@ -1,0 +1,2 @@
+WORKOS_USER_ID_CLAIM = "sub"
+WORKOS_HEADER = "X-AuthKit-Id"
